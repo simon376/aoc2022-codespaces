@@ -1,3 +1,9 @@
+# Advent of Code 2022
+
+done using python in jupyter notebooks, running in github codespaces
+
+
+
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
 Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
